@@ -1,0 +1,17 @@
+div.container {
+	max-width: 30%;
+	margin: 0 auto;
+}
+
+.grid {
+	float: left;
+	width: 5.75%;
+	height: 20px;
+	background-color: #ffbbcc;
+	margin-right: 0.5%;
+	margin-bottom: 2px;
+}
+
+.grid:last-child {
+	margin-right: 0;
+}
